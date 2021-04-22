@@ -52,7 +52,7 @@ superuser: true
 title: Sabri Ciftci
 ---
 
-Sabri Ciftci is professor and Michael W. Suleiman Chair in Arab and Arab-American Studies in the Department of Political Science at Kansas State University.He is also the founding director of Middle East Studies minor. His research interests include Islam and democracy, legislative politics, Middle East, and Turkish politics. His most recent projects examined justice and democracy in the Muslim World, social roots of religious outlooks in MENA, and parliamentary behavior in Turkey.
+Sabri Ciftci is a professor of political science and Michael W. Suleiman Chair in Arab and Arab-American Studies at Kansas State University.He is also the founding director of Middle East Studies minor. His research interests include Islam and democracy, legislative politics, Middle East, and Turkish politics. His most recent projects examined justice and democracy in the Muslim World, social roots of religious outlooks in MENA, and parliamentary behavior in Turkey.
 
 Ciftci is the author of  _Islam, Justice, and Democracy_  (2021, Temple University Press) and co-author of _Beyond Piety and Politics_ (2022, Indiana University Press). His first book, _Parliament in Turkey since 1876_ was published in Turkish by Siyasal Kitabevi (2006). He has also widely published in such journals as Comparative Political Studies, Political Research Quarterly, Democratization, International Political Science Review, and Foreign Policy Analysis among others.  
 
