@@ -7,7 +7,7 @@ theme: "starter-academic"
 title: Sabri Ciftci # Website name
 baseurl: '' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
-
+googleAnalytics: "UA-125817005-1"
 ############################
 ## LANGUAGE
 ############################
