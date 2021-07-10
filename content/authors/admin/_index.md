@@ -47,7 +47,7 @@ social:
  # link: https://orcid.org/0000-0003-3669-6620
 - icon: cv
   icon_pack: ai
-  link: https://www.dropbox.com/s/w4t5otvs4fsrao4/CV_2021.pdf?dl=0
+  link: https://www.dropbox.com/s/8gp4pufh4x0hhpf/CV_2021.pdf?dl=0
 superuser: true
 title: Sabri Ciftci
 ---
