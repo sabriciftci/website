@@ -4,7 +4,7 @@ header:
   image: ""
 title: CV
 type: page
-active: false
+active: true
 ---
 
 Download my CV here {{% staticref "media/cv.pdf" %}}[PDF]{{% /staticref %}}
