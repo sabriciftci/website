@@ -58,4 +58,4 @@ Ciftci is the author of  _Islam, Justice, and Democracy_  (2021, Temple Universi
 
 When not researching or teaching, Ciftci likes to spend time with his family, hike, or draw Islamic calligraphy. 
 
-{{< icon name="download" pack="fas" >}} Download my <a href="https://www.dropbox.com/s/8gp4pufh4x0hhpf/CV_2021.pdf?dl=0"> **CV** </a>
+{{< icon name="download" pack="fas" >}} Download my <a href="https://www.dropbox.com/s/8gp4pufh4x0hhpf/CV_2021.pdf?dl=0"> **CV Here** </a>
