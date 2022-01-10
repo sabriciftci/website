@@ -6,12 +6,14 @@ date: "2021-01-01T00:00:00Z"
 doi: ""
 featured: true
 image:
-  #caption: 'Image credit: [**CWS**]'
+  #caption: 'Image credit: [**Hala Aljafaari**]'
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: https://doi.org/10.1177/1065912918793233
+- name: IUP Page
+  url: https://iupress.org/9780253060532/beyond-piety-and-politics/
+- name: Amazon Page
+  url: https://www.amazon.com/author/sabriciftci
 #projects:
 #- internal-project
 #publication: In *Indiana University Press*

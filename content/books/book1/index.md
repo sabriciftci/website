@@ -12,6 +12,8 @@ image:
 links:
 - name: TUP Page
   url: http://tupress.temple.edu/book/20000000010489
+- name: Amazon Page
+  url: https://www.amazon.com/author/sabriciftci
 #projects:
 #- internal-project
 #publication: In *Temple University Press*
