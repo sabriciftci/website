@@ -1,5 +1,5 @@
 ---
-bio: My research interests include Islam and Democracy, legislative politics, Middle East, and Turkish Politics
+bio: My research interests include Islam and Democracy, legislative politics, Middle East, Turkish Politics, and Turkish Foreign Policy
 education:
   courses:
   - course: PhD in Political Science
@@ -22,6 +22,7 @@ interests:
 - Turkish politics
 - Legislative politics
 - Foreign Policy in MENA
+- Turkish Foreign Policy
 organizations:
 - name: Kansas State University
   url: https://www.k-state.edu
