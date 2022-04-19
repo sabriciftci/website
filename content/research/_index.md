@@ -7,7 +7,7 @@ type: "widget_pages" # Page type is a Widget Page
 
 {{< icon name="download" pack="fas" >}} Check my <a href="https://www.dropbox.com/s/w4t5otvs4fsrao4/CV_2021.pdf?dl=0"> **CV** </a> for books, book chapters, opinion pieces, book reviews, and other scholarly activities.
 
-**23**."On Weber, Pathogens, and Culture: A Global Empirical Analysis of Religion and Individualism." _Journal for the Scientific Study of Religion_ Early View, 2022. <a href="https://doi.org/10.1111/jssr.12778"> [Link]</a>
+**23**."On Weber, Pathogens, and Culture: A Global Empirical Analysis of Religion and Individualism." _Journal for the Scientific Study of Religion_ Forthcoming, Early View, 2022. <a href="https://doi.org/10.1111/jssr.12778"> [Link]</a>
 
 **22**."Devotion at Sub-National Level: Ramadan, Nighttime Lights, and Religiosity in the Egyptian Governorates." w/ M.Robbins, and S. Zaytseva. _International Journal of Public Opinion Research_ 33.1 (2021): 99-117. <a href="https://academic.oup.com/ijpor/advance-article/doi/10.1093/ijpor/edaa019/6018002?guestAccessKey=0094e236-8895-4786-a931-89443c74600b"> [Link]</a>
 
