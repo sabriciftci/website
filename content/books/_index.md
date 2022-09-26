@@ -6,5 +6,4 @@ type: "widget_pages" # Page type is a Widget Page
 ---
 
 
-This page will be updated as the links for my books become available.
-Thank you for your patience!
+You can find the links for my books on this page.
