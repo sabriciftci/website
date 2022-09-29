@@ -1,5 +1,5 @@
 ---
-title: "Articles"  # Add a page title.
+title: "Articles, Books, and Book Chapters"  # Add a page title.
 #summary: "Hello!"  # Add a page description.
 date: "2021-04-01T00:00:00Z"  # Add today's date.
 type: "widget_pages" # Page type is a Widget Page
@@ -7,7 +7,16 @@ type: "widget_pages" # Page type is a Widget Page
 
 {{< icon name="download" pack="fas" >}} Check my <a href="https://www.dropbox.com/s/w4t5otvs4fsrao4/CV_2021.pdf?dl=0"> **CV** </a> for books, book chapters, opinion pieces, book reviews, and other scholarly activities.
 
-**23**."On Weber, Pathogens, and Culture: A Global Empirical Analysis of Religion and Individualism." _Journal for the Scientific Study of Religion_ Forthcoming, Early View, 2022. <a href="https://doi.org/10.1111/jssr.12778"> [Link]</a>
+**27**. "Islamic Conception of Justice." in G. Tamer (ed.), _The Concept of Justice in Judaism, Christianity, and Islam_, De Gruyter, _**Forthcoming**_.
+
+**26**.  _Islam, Justice, and Democracy_, Temple University Press, 2022. <a href="https://tupress.temple.edu/books/islam-justice-and-democracy/"  > [Link]</a>
+
+
+**25**.  _Beyond Piety and Politics: Religion, Social Relations, and Public Preferences in the Middle East and North Africa_, with M. Wutrich and A. Shamaileh, Indiana University Press, 2022. <a href="https://iupress.org/9780253060532/beyond-piety-and-politics/" > [Link]</a>
+
+**24**."On Weber, Pathogens, and Culture: A Global Empirical Analysis of Religion and Individualism." _Journal for the Scientific Study of Religion_ Forthcoming, Early View, 2022. <a href="https://doi.org/10.1111/jssr.12778"> [Link]</a>
+
+**23**. "Soft Power, Domestic Dividends, and Turkish Foreign Policy: The Case of Palestine." In _Inter-State and Intra-State Conflicts in Global Politics_, Lexington Books, pp. 89-106, 2022.  <a href= "https://rowman.com/ISBN/9781793652546/Inter-State-and-Intra-State-Conflicts-in-Global-Politics-From-Eurasia-to-China"> [Link]</a>
 
 **22**."Devotion at Sub-National Level: Ramadan, Nighttime Lights, and Religiosity in the Egyptian Governorates." w/ M.Robbins, and S. Zaytseva. _International Journal of Public Opinion Research_ 33.1 (2021): 99-117. <a href="https://academic.oup.com/ijpor/advance-article/doi/10.1093/ijpor/edaa019/6018002?guestAccessKey=0094e236-8895-4786-a931-89443c74600b"> [Link]</a>
 
