@@ -1,18 +1,15 @@
 ---
-title: "Articles, Books, and Book Chapters"  # Add a page title.
-#summary: "Hello!"  # Add a page description.
+title: "Articles and Book Chapters"  # Add a page title.
+summary: "Here, I list my peer-reviewed articles and book chapters." # Add a page description.
 date: "2021-04-01T00:00:00Z"  # Add today's date.
 type: "widget_pages" # Page type is a Widget Page
 ---
 
-{{< icon name="download" pack="fas" >}} Check my <a href="https://www.dropbox.com/s/w4t5otvs4fsrao4/CV_2021.pdf?dl=0"> **CV** </a> for books, book chapters, opinion pieces, book reviews, and other scholarly activities.
+{{< icon name="download" pack="fas" >}} Check my <a href="https://www.dropbox.com/s/w4t5otvs4fsrao4/CV_2021.pdf?dl=0"> **CV** </a> for books, opinion pieces, book reviews, and other scholarly activities.
 
-**27**. "Islamic Conception of Justice." in G. Tamer (ed.), _The Concept of Justice in Judaism, Christianity, and Islam_, De Gruyter, _**Forthcoming**_.
+**26**. "Military Might: A Domestic Economy Explanation of Turkish Foreign Policy. " Forthcoming, in _Turkish Studies_. 
 
-**26**.  _Islam, Justice, and Democracy_, Temple University Press, 2022. <a href="https://tupress.temple.edu/books/islam-justice-and-democracy/"  > [Link]</a>
-
-
-**25**.  _Beyond Piety and Politics: Religion, Social Relations, and Public Preferences in the Middle East and North Africa_, with M. Wutrich and A. Shamaileh, Indiana University Press, 2022. <a href="https://iupress.org/9780253060532/beyond-piety-and-politics/" > [Link]</a>
+**25**. "Islamic Conception of Justice." in G. Tamer (ed.), _The Concept of Justice in Judaism, Christianity, and Islam_, De Gruyter, _**Forthcoming**_.
 
 **24**."On Weber, Pathogens, and Culture: A Global Empirical Analysis of Religion and Individualism." _Journal for the Scientific Study of Religion_ Forthcoming, Early View, 2022. <a href="https://doi.org/10.1111/jssr.12778"> [Link]</a>
 
