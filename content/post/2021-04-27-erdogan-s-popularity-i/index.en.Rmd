@@ -1,24 +1,24 @@
 ---
-title: Erdogan's Popularity - I
-author: Sabri Ciftci
-date: '2021-04-27'
-slug: erdogan-s-popularity-i
+title: "Erdogan's Popularity - I"
+draft: true
+author: "Sabri Ciftci"
+date: "2021-04-27"
+slug: "erdogan-s-popularity-i"
 categories:
-  - Turkey
-  - Foreign Policy
-  - Erdogan
-tags:
-  - Turkish Foreign Policy
+- Turkey
+- Foreign Policy
+- Erdogan
+tags: Turkish Foreign Policy
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-04-27T09:24:47-05:00'
+lastmod: "2021-04-27T09:24:47-05:00"
 featured: no
 image:
-  caption: 'Image Credit: [**Presidency of Republic of Turkey**](https://www.tccb.gov.tr/assets/resim/album/ozel/cumhurbaskanligi-album-025.jpg)'
+  caption: "Image Credit: [**Presidency of Republic of Turkey**](https://www.tccb.gov.tr/assets/resim/album/ozel/cumhurbaskanligi-album-025.jpg)"
   focal_point: ''
   placement: 2
-  preview_only: false
+  preview_only: no
 projects: []
 ---
 
@@ -33,11 +33,10 @@ Foreign policy is a complex business. In addition to domestic political calculat
 ```{r dataprep, include=FALSE}
 library(tidyverse)
 library(foreign)
-library(expss)
 ab5<-as_tibble(read.dta("/Users/sabri/Dropbox/ABprojects/tr.image/ABV_Release_Data.dta"))
 ab5s<-select(ab5, country, Q725_1, Q725_2, Q725_3, Q505A, Q1016, Q706B)
 ab5s=apply_labels(ab5s, Q725_3="Erdogan's Foreign Policy", country="Country",
-                  Q706B="Anti-Americanism", Q505A="Religious Party Support")
+                 Q706B="Anti-Americanism", Q505A="Religious Party Support")
 ab5s<- ab5s %>% dplyr::na_if("don't know")
 ab5s<- ab5s %>% dplyr::na_if("refused")
 ab5s
