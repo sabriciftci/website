@@ -7,11 +7,13 @@ type: "widget_pages" # Page type is a Widget Page
 
 {{< icon name="download" pack="fas" >}} Check my <a href="https://www.dropbox.com/s/w4t5otvs4fsrao4/CV_2021.pdf?dl=0"> **CV** </a> for books, opinion pieces, book reviews, and other scholarly activities.
 
-**26**. "Military Might: A Domestic Economy Explanation of Turkish Foreign Policy. " Forthcoming, in _Turkish Studies_. 
+**27**. "Crafting Cross-Border Connections: Religion and Perceptions of Erdoğan in the Middle East and North Africa", Forthcoming, in _Middle East Law and Governance_.
+
+**26**. "Military Might: A Domestic Economy Explanation of Turkish Foreign Policy. " _Turkish Studies_,  24.5 (2023): 764-787. 
 
 **25**. "Islamic Conception of Justice." in G. Tamer (ed.), _The Concept of Justice in Judaism, Christianity, and Islam_, De Gruyter, _**Forthcoming**_.
 
-**24**."On Weber, Pathogens, and Culture: A Global Empirical Analysis of Religion and Individualism." _Journal for the Scientific Study of Religion_ Forthcoming, Early View, 2022. <a href="https://doi.org/10.1111/jssr.12778"> [Link]</a>
+**24**."On Weber, Pathogens, and Culture: A Global Empirical Analysis of Religion and Individualism." _Journal for the Scientific Study of Religion_ 61.2 (2022): 331-348. <a href="https://doi.org/10.1111/jssr.12778"> [Link]</a>
 
 **23**. "Soft Power, Domestic Dividends, and Turkish Foreign Policy: The Case of Palestine." In _Inter-State and Intra-State Conflicts in Global Politics_, Lexington Books, pp. 89-106, 2022.  <a href= "https://rowman.com/ISBN/9781793652546/Inter-State-and-Intra-State-Conflicts-in-Global-Politics-From-Eurasia-to-China"> [Link]</a>
 
