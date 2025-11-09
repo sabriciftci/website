@@ -1,13 +1,15 @@
 ---
 title: "Articles and Book Chapters"  # Add a page title.
-summary: "Here, I list my peer-reviewed articles and book chapters." # Add a page description.
+summary: "Here, I list my peer-reviewed articles and book chapters. For the books, check my 'books' page" # Add a page description.
 date: "2021-04-01T00:00:00Z"  # Add today's date.
 type: "widget_pages" # Page type is a Widget Page
 ---
 
 {{< icon name="download" pack="fas" >}} Check my <a href="https://www.dropbox.com/s/w4t5otvs4fsrao4/CV_2021.pdf?dl=0"> **CV** </a> for books, opinion pieces, book reviews, and other scholarly activities.
 
-**27**. "Crafting Cross-Border Connections: Religion and Perceptions of Erdoğan in the Middle East and North Africa", Forthcoming, in _Middle East Law and Governance_.
+**28**. "Unruly Mystics and the State: Antinomian Dervishes, Religion, and State Formation in Medieval Anatolia." _Studies in Comparative International Development_ (2025). https://doi.org/10.1007/s12116-025-09476-0"
+
+**27**. "Crafting Cross-Border Connections: Religion and Perceptions of Erdoğan in the Middle East and North Africa",  _Middle East Law and Governance_, 16(3) (2024):  316–340.
 
 **26**. "Military Might: A Domestic Economy Explanation of Turkish Foreign Policy. " _Turkish Studies_,  24.5 (2023): 764-787. 
 
