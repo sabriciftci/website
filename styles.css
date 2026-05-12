@@ -1,0 +1,101 @@
+/* Global typography */
+body {
+  font-family: "Source Sans 3", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+}
+
+/* Profile layout */
+.profile-container {
+  text-align: center;
+  max-width: 680px;
+  margin: 2.5rem auto 1.5rem auto;
+}
+
+.profile-photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile-name {
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+  border: none;
+}
+
+.profile-role {
+  color: #555;
+  margin-bottom: 1rem;
+  line-height: 1.5;
+}
+
+/* Social icons */
+.social-icons {
+  margin: 1rem 0 2rem 0;
+}
+
+.social-icons a {
+  font-size: 1.6rem;
+  margin: 0 0.55rem;
+  color: #555;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.social-icons a:hover {
+  color: #2c7be5;
+}
+
+/* Bio text */
+.bio-text {
+  max-width: 680px;
+  margin: 0 auto;
+  line-height: 1.75;
+  text-align: left;
+}
+
+/* Navbar */
+.navbar-brand {
+  font-weight: 600;
+}
+
+/* Articles page */
+.quarto-title h1.title {
+  border-bottom: 1px solid #dee2e6;
+  padding-bottom: 0.4rem;
+}
+
+/* Books layout */
+.book-entry {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.book-cover {
+  width: 120px;
+  flex-shrink: 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.book-details {
+  flex: 1;
+}
+
+.book-details h3 {
+  margin-top: 0;
+  border: none;
+}
+
+/* Footer */
+.nav-footer {
+  color: #666;
+  font-size: 0.9rem;
+}
