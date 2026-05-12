@@ -23,7 +23,9 @@ Varieties of Nationalism and Defense Spending (*Under Review*)
 
 ## Published Work
 
-**29.** "Administrative unit proliferation in parliamentary systems: Evidence from turkish elections, 1960-2018", with Murat Abus, *Electoral Studies* 101 (2026), <https://doi.org/10.1016/j.electstud.2026.103087>
+**30.** "Administrative unit proliferation in parliamentary systems: Evidence from turkish elections, 1960-2018", with Murat Abus, *Electoral Studies* 101 (2026), <https://doi.org/10.1016/j.electstud.2026.103087>
+
+**29.**"Justice, Muslim Liberation Theology, and Turkish Islamism." In Wiley-Blackwell Companion to Muslim Liberation Theologies, forthcoming 2026
 
 **28**. "Unruly Mystics and the State: Antinomian Dervishes, Religion, and State Formation in Medieval Anatolia." *Studies in Comparative International Development* (2025). <https://doi.org/10.1007/s12116-025-09476-0>"
 
