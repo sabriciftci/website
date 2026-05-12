@@ -9,8 +9,6 @@ type: "widget_pages" # Page type is a Widget Page
 
 ## Research in Progress\*
 
-Subnational Unit Proliferation in Parliamentary Systems (*Revise and Resubmit*)
-
 Sacred Geography: A Spatial Analysis of Sufi Shrine Density and its Political implications in Turkey *(working paper*)
 
 Sufi Paths to Power: Religion and International Order (Work in Progress)
@@ -24,6 +22,8 @@ Varieties of Nationalism and Defense Spending (*Under Review*)
 \**This list highlights my work at advanced stages of development. I also have several ongoing projects at earlier stages (in addition to two book length projects), including Islamophobia in the American states, Islamophobia and Christian nationalism, metadoxy in the Muslim world, and the legacies and contemporary implications of popular religion in Muslim-majority societies.*
 
 ## Published Work
+
+**29.** "Administrative unit proliferation in parliamentary systems: Evidence from turkish elections, 1960-2018", with Murat Abus, *Electoral Studies* 101 (2026), [https://doi.org/10.1016/j.electstud.2026.103087](#0).
 
 **28**. "Unruly Mystics and the State: Antinomian Dervishes, Religion, and State Formation in Medieval Anatolia." *Studies in Comparative International Development* (2025). <https://doi.org/10.1007/s12116-025-09476-0>"
 
