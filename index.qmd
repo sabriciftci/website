@@ -1,0 +1,32 @@
+---
+title: ""
+page-layout: article
+---
+
+<div class="profile-container">
+
+<img src="media/avatar.jpg" class="profile-photo" alt="Sabri Ciftci">
+
+<h1 class="profile-name">Sabri Ciftci</h1>
+
+<p class="profile-role">Professor of Political Science &amp; Michael W. Suleiman Chair<br>Kansas State University</p>
+
+<div class="social-icons">
+  <a href="mailto:ciftci@ksu.edu" title="Email"><i class="fas fa-envelope"></i></a>
+  <a href="https://scholar.google.com/citations?user=TQOlhZQAAAAJ&hl=en&oi=ao" title="Google Scholar" target="_blank"><i class="ai ai-google-scholar"></i></a>
+  <a href="https://www.researchgate.net/profile/Sabri-Ciftci" title="ResearchGate" target="_blank"><i class="ai ai-researchgate"></i></a>
+  <a href="https://www.dropbox.com/scl/fi/3odfrjioxtqi0frk6ktwj/CV_2021.pdf?rlkey=lkazf3fbcd0ryw4q2zuu46ycy&st=fwhc1qhb&dl=0" title="Download CV" target="_blank"><i class="ai ai-cv"></i></a>
+  <a href="https://www.linkedin.com/in/sabri-ciftci-7309b9306" title="LinkedIn" target="_blank"><i class="fab fa-linkedin"></i></a>
+</div>
+
+</div>
+
+<div class="bio-text">
+
+Sabri Ciftci is professor of political science and Michael W. Suleiman Chair at Kansas State University. He is also co-Editor-in-Chief of [*Politics and Religion*](https://www.cambridge.org/core/journals/politics-and-religion). Ciftci is the founding director of Middle East Studies minor. His research interests include religion and politics, Islam and democracy, Turkish politics and Turkish foreign policy. Currently, he is working on two book projects about the Sufi origins of political and economic development in the Muslim world and the economic determinants of Turkish foreign policy.
+
+Ciftci is the author of [*Islam, Justice, and Democracy*](https://tupress.temple.edu/books/islam-justice-and-democracy) (2021, Temple University Press) and co-author of [*Beyond Piety and Politics*](https://iupress.org/9780253060532/beyond-piety-and-politics/) (2022, Indiana University Press). His first book, *Parliament in Turkey since 1876* was published in Turkish by Siyasal Kitabevi (2006). He has also widely published in such journals as Comparative Political Studies, Political Research Quarterly, Democratization, International Political Science Review, and Foreign Policy Analysis among others. Click here for his [Amazon Author page](https://www.amazon.com/author/sabriciftci).
+
+When not researching or teaching, Ciftci likes to spend time with his family or spend time outdoors.
+
+</div>
